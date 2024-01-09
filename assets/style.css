@@ -119,7 +119,6 @@ footer {
     flex-wrap: wrap;
     justify-content: center;
     width: 70%;
-    
   }
   
 .card {
@@ -171,7 +170,6 @@ footer {
   
 .secondCard{
     background-image: url(./images/PWSG.jpg);
-    /* filter: blur(5px) */
 }
 
 .thirdCard {
@@ -197,8 +195,6 @@ footer {
 }
 
 .contactBox a{
-    /* margin: 10px;
-    margin-right: 18vw; */
     padding: 12px 20px; 
     background-color: var(--gray);
     border-radius: 26px;
@@ -207,31 +203,31 @@ footer {
     font-family: 'Abril Fatface', serif;
 }
 
-  #bananaS{
+#bananaS{
     position: relative; 
     border: 1px solid var(--dark);
     width: 140px;
 }
 
-  #pwStudy {
+#pwStudy {
     position: relative; 
     border: 1px solid var(--dark);
     width: 100px;
 }
 
-  #miniProOne {
+#miniProOne {
     position: relative; 
     border: 1px solid var(--dark);
     width: 110px;
 }
 
-  #tbd4Text {
+#tbd4Text {
     position: relative; 
     border: 1px solid var(--dark);
     width: 110px;
 }
 
-  #tbd5Text {
+#tbd5Text {
     position: relative; 
     border: 1px solid var(--dark);
     width: 110px;
@@ -368,6 +364,7 @@ footer {
 }
 
 @media screen and (max-width: 467px) {
+    
     nav a {
         margin: 0px;
         padding: 3px;
