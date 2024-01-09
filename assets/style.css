@@ -352,3 +352,12 @@ footer {
         width: 100%;
     }
 }
+
+@media screen and (max-width: 467px) {
+    nav a {
+        margin: 0px;
+    }
+    .contactBox a {
+        margin: 0px;
+    }
+}
